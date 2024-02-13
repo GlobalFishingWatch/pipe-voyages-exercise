@@ -2,7 +2,7 @@
 
 This repository contains an exercise for data engineering positions at GFW.
 This exercise is based on an actual task we tackled a couple of months ago. The
-goal of this exercise is for it take 1 hour. You are not expected to produce a
+goal of this exercise is for it take **1 hour**. You are not expected to produce a
 complete solution to this problem. You are expected to ask questions, and
 optionally describe how you would implement a solution.
 
