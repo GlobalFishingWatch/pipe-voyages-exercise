@@ -13,6 +13,7 @@ events detected when a vessel get close to an anchorage and stops in its
 vicinity. Once we've calculated port visits, a very important data product we
 produce is to compute voyages. A voyage is defined as an entity that comprises
 everything that happens between 2 consecutive port visits for a single vessel.
+For more information on how anchorages and port visits are calculated visit [this page](https://globalfishingwatch.org/datasets-and-code-anchorages/).
 
 In this repository you will find a query that computes these events in the form
 of a [jinja](https://jinja.palletsprojects.com/en/3.1.x/) template. This query
