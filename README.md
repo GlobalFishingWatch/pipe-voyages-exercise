@@ -34,7 +34,7 @@ cheaper.
 
 ## Schemas and additional documentation
 
-The source table, `port_visits`, is a [monthly date partitioned tabe](https://cloud.google.com/bigquery/docs/partitioned-tables), with the following schema
+The source table, `port_visits`, is a [monthly date partitioned table](https://cloud.google.com/bigquery/docs/partitioned-tables), with the following schema
 
 visit_id STRING  REQUIRED  - Unique ID for this visit  
 vessel_id STRING  REQUIRED  - `vessel_id` of the track this visit was found on  
