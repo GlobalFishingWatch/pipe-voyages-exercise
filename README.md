@@ -38,8 +38,8 @@ propose and design how you would change this process to be both faster and
 cheaper.
 
 1. Send a list of questions you think need to be answered in order to design the best solution.
-2. Even though you may not have the complete context, write a max 400 word description of what solution you would implement and why. 
-3. (optional) Submit a high-level diagram of your solution or reference material pointing/supporting the solution you mention in the point above. 
+2. Even though you may not have the complete context, write a max 400 words description of what solution you would implement and why. 
+3. (optional) Submit a high-level diagram of your solution, code, or any reference material supporting the solution you mentioned above. 
 
 
 ## Constraints
