@@ -1,10 +1,18 @@
-# Voyages exercise
+# Back-end Data Engineer Position - Interview Task
 
 This repository contains an exercise for data engineering positions at GFW.
 This exercise is based on an actual task we tackled a couple of months ago. The
-goal of this exercise is for it take **1 hour**. You are not expected to produce a
-complete solution to this problem. You are expected to ask questions, and
-optionally describe how you would implement a solution.
+goal of this exercise is for it take **1 hour**. 
+
+This task is designed to (1) evaluate your analytical skills, (2) your communications skills 
+and (3) your SQL understanding and technical knowledge applied to data problems. 
+
+# Interview Task
+
+Please answer both questions in a document, remove your name so it can be considered anonymously and email responses to HR by the deadline shared in the email.
+
+This should take no longer than one hour to complete in total - we are not expecting full briefings, introductory paragraphs and bullets are very welcome. 
+
 
 ## Context
 
@@ -21,9 +29,18 @@ was produced by the research team, and while it produces accurate results, it
 does have some operational problems. The main issue is that it is a very
 expensive and slow query, taking more than 6 hours to run every single day.
 
+
+
+## The Excercise
+
 The goal of the exercise is to review and understand the query, and then
 propose and design how you would change this process to be both faster and
 cheaper.
+
+1. Send a list of questions you think need to be answered in order to design the best solution.
+2. Even though you may not have the complete context, write a max 400 word description of what solution you would implement and why. 
+3. (optional) Submit a high-level diagram of your solution or reference material pointing/supporting the solution you mention in the point above. 
+
 
 ## Constraints
 
